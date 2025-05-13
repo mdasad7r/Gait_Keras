@@ -1,0 +1,8 @@
+TRAIN_DIR = "/path/to/train"
+TEST_DIR = "/path/to/test"
+BATCH_SIZE = 4
+SEQUENCE_LEN = 10
+NUM_CLASSES = 124
+LEARNING_RATE = 0.001
+NUM_EPOCHS = 30
+SAVE_MODEL_PATH = "best_model.h5"
